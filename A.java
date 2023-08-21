@@ -1,6 +1,6 @@
 public Class A() {
     int a = 20;
-    String str = "메인에서 변경한 변수";
+    String str = "conflict-1에서 변경";
 
     public void method1(){
 
@@ -11,4 +11,6 @@ public Class A() {
     public void method3(){
         
     }
+
+
 }
